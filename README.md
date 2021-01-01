@@ -27,6 +27,11 @@ See more info at https://academicpages.github.io/
 ### Sidebar information
 Change _config.yml accordingly.
 
+### Add or remove page
+Add or remove title in _data/navigation.yml
+The corresponding pages are in _pages/  
+_pages/about.md: The homepage contents
+
 # Changelog -- bugfixes and enhancements
 
 There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
