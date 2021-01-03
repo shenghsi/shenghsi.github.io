@@ -10,7 +10,7 @@ tags:
 
 Homebrew notes
 
-Homebrew notes
+Homebrew notes ([Edit](https://github.com/shenghsi/shenghsi.github.io/blob/master/_posts/2021-01-02-homebrew-notes.md))
 ======
 
 [How to clean unused homebrew dependencies](https://superuser.com/questions/1509212/how-to-clean-unused-homebrew-dependencies)
