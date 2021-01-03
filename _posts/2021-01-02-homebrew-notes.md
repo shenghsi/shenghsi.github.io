@@ -8,8 +8,6 @@ tags:
   - macos
 ---
 
-Homebrew notes
-
 Homebrew notes ([Edit](https://github.com/shenghsi/shenghsi.github.io/blob/master/_posts/2021-01-02-homebrew-notes.md))
 ======
 
